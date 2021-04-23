@@ -1,6 +1,8 @@
-# IHC_TF
- Trabajo Final IHC y Tecnologias Moviles SI385-2002-SX42 2020-02
+# Aplicaciones Open Source
+ TB2 Aplicaciones Open Soruce SI652-2101-WV52
  Integrantes:
- - Antonio Ferrándiz Bendezu u201918042
- - Andrea Curi Vasquez u201912472
- - Nestor Molina Umeres u201220092" 
+- Vela Sarazú, Josmar	         u201611746
+- Ferrándiz Bendezu, Antonio Jose	U201918042
+- Trujillo Mori, Jeampier Alexander	 u201523565
+- Montes Molina, Sebastian Alejandro	U201712366
+- Huerta Macedo, Gerardo Josue 	u201812031
